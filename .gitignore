@@ -1,0 +1,10 @@
+__pycache__/
+data
+./checkpoints/*
+./runs/events*
+runs
+*.ipynb 
+*.pth
+*.onnx
+*.h5
+*.hdf5
